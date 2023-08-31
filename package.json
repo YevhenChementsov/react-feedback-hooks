@@ -6,7 +6,7 @@
   "homepage": "https://yevhenchementsov.github.io/react-feedback-hooks/",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && mv dist build",
     "precommit": "lint-staged",
     "prepare": "husky install",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
