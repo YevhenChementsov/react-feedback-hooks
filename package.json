@@ -18,6 +18,7 @@
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-icons": "^4.10.1",
     "styled-components": "^6.0.7"
   },
   "devDependencies": {
@@ -34,12 +35,12 @@
     "vite": "^4.4.5"
   },
   "lint-staged": {
-    "*.{js,jsx}": "yarn lint",
-    "*.{js,jsx,css,md,html,json}": "yarn format"
+    "*.{js,jsx}": "npm run lint",
+    "*.{js,jsx,css,md,html,json}": "npm run format"
   },
   "husky": {
     "hooks": {
-      "pre-commit": "yarn precommit"
+      "pre-commit": "npm run precommit"
     }
   }
 }
