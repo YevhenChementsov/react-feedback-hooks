@@ -12,5 +12,6 @@
 
 ## Завдання
 
-- Провести рефакторинг коду «Віджет відгуків» з репозиторію `react-feedback`,
+- Провести рефакторинг коду «Віджет відгуків» з репозиторію
+  [react-feedback](https://github.com/YevhenChementsov/react-feedback),
   використовуючи React-хуки.

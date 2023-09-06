@@ -12,5 +12,5 @@
 
 ## Assignments:
 
-- Refactor the "Feedback Widget" code from the `react-feedback` repository using
+- Refactor the "Feedback Widget" code from the [react-feedback](https://github.com/YevhenChementsov/react-feedback) repository using
   React-hooks.

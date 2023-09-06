@@ -12,5 +12,6 @@
 
 ## Задание
 
-- Провести рефакторинг кода «Виджет отзывов» из репозитория `react-feedback`,
+- Провести рефакторинг кода «Виджет отзывов» из репозитория
+  [react-feedback](https://github.com/YevhenChementsov/react-feedback),
   используя React-хуки.
